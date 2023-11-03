@@ -9,6 +9,7 @@ body {
   border-radius: none;
   border: solid 1px white;
   padding: 7px;
+  padding-inline: 20px;
 }
 .border-radius-none {
   border-radius: none;

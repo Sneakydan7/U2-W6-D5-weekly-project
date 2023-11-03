@@ -1,16 +1,34 @@
 body {
   background-color: #141414;
 }
-.bg-netflix {
-  background-color: #141414;
+
+h1 {
+  font-size: 75px;
+}
+.color-main {
+  color: #b6beb8;
+  font-size: 30px;
+}
+.alternative {
+  background-color: #333333;
 }
 .button-drop {
   border-radius: none;
   border: solid 1px white;
   padding: 7px;
+  padding-inline: 20px;
 }
-.border-radius-none {
-  border-radius: none;
+
+.separator {
+  border-color: #323232;
+}
+
+.spacing {
+  letter-spacing: 3px;
+  padding-inline: 20px;
+}
+.bg-netflix {
+  background-color: #141414;
 }
 .navbarProfile {
   width: 100%;
