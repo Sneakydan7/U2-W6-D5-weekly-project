@@ -1,0 +1,15 @@
+body {
+  background-color: #141414;
+  padding: 20px;
+}
+.bg-netflix {
+  background-color: #141414;
+}
+.button-drop {
+  border-radius: none;
+  border: solid 1px white;
+  padding: 7px;
+}
+.border-radius-none {
+  border-radius: none;
+}
